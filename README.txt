@@ -1,33 +1,15 @@
-Hyperspace by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Welcome to our interactive Tableau dashboard showcasing insights into Data Science job salaries. This comprehensive visualization provides valuable information on the salaries based on various factors such as experience level, employment type, company size and location, country, employee residence, job title, and experience level.
 
+In the first visual, you can explore the average salaries in USD categorized by experience level and employment type. This helps you understand the salary ranges based on your experience and whether you're working as a full-time employee, contractor, or freelancer.
 
-So I've had the wireframe for this particular design kicking around for some time, but with all
-the other interesting (and in some cases, semi-secret) projects I've been working on it took me
-a little while to get to actually designing and coding it. Fortunately, things have eased up
-enough for me to finaly get around to it, so I'm happy to introduce Hyperspace: a fun, blocky,
-one-page design with a lot of color, a bit of animation, and an additional "generic" page template
-(because hey, even one-page sites usually need an interior page or two). Hope you dig it :)
+The second visualization focuses on the total number of companies, classified by their size and location. By analyzing this data, you can gain insights into the distribution of companies across different locations and their sizes in relation to job opportunities and salary potential.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+The third visual provides an overview of the average salaries by country. This allows you to compare and contrast the average salaries in different countries and assess potential opportunities or considerations when it comes to job prospects in specific locations.
 
-(* = not included)
+In the fourth visual, you can explore the top 10 employee residences. This gives you a glimpse into the popular locations where data science professionals reside, highlighting potential hubs of talent and networking opportunities.
 
-AJ
-aj@lkn.io | @ajlkn
+The fifth and sixth visuals focus on experience level and employment type, respectively. By examining these visualizations, you can better understand how salary ranges vary based on your level of experience and the type of employment arrangement you're seeking.
 
+Lastly, the visualization displays the average salary by job title and experience level. This helps you gain insights into the salary ranges associated with different job titles at varying levels of experience, aiding you in making informed career decisions.
 
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+We hope this interactive Tableau dashboard provides you with valuable insights into Data Science job salaries and assists you in making informed decisions regarding your career path and job search.
